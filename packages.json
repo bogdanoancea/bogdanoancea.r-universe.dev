@@ -4,6 +4,7 @@
     "url": "https://github.com/bogdanoancea/finitization",
     "branch": "master",
     "articles": false,
+    "wasm": false,
     "metadata": {
       "maintainer": "Bogdan Oancea <bogdan.oancea@gmail.com>",
       "description": "R package implementing finitization of discrete distributions with exact moment preservation using GMP, CLN, and GiNaC backends.",
